@@ -1,5 +1,7 @@
 # NetSecFinalProject
 
+(*All 3 folders in this repository are Netbeans Project Folders*)
+
 Jonathan Vasallo, Liam Twomey, Dylan Tivnan
 Network Security
 5/10/2021
